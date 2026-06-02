@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="Syam Kumar Banner">
+</p>
+
 <div align="center">
 
 # 👋 Hi, I'm Syam Kumar
