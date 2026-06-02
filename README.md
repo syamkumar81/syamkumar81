@@ -1,48 +1,36 @@
+<div align="center">
+
 # 👋 Hi, I'm Syam Kumar
 
 ### 📊 Aspiring Data Analyst | AI & ML Student | Data-Driven Problem Solver
 
-I'm a B.Tech Computer Science (AI & ML) student passionate about transforming raw data into actionable business insights.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Data+Analyst+Enthusiast;Python+%7C+SQL+%7C+Excel;Power+BI+Learner;Turning+Data+into+Business+Insights;Building+Analytics+Dashboards" />
 
-I enjoy working with data, uncovering patterns, building dashboards, and solving real-world business problems using Python, SQL, Excel, and Power BI.
-
-🔹 Strong foundation in Data Analysis & Exploratory Data Analysis (EDA)
-🔹 Experienced in SQL Business Analysis & Dashboard Development
-🔹 Passionate about Data Visualization & Storytelling
-🔹 Currently learning Power BI, DAX, and Machine Learning
-🔹 Open to Data Analyst Internships and Collaboration Opportunities
+</div>
 
 ---
 
-## 🚀 Featured Projects
+# 💫 About Me
 
-### 📈 E-Commerce SQL Business Analysis
+🎓 B.Tech CSE (AI & ML) Student
 
-* Solved 80+ real-world business SQL problems
-* Revenue Analysis
-* Customer Segmentation
-* Product Performance Analysis
-* Window Functions, CTEs, Subqueries, Joins
+📊 Passionate about Data Analysis, Business Intelligence, and Data Visualization
 
-### 🍔 Swiggy Sales Analytics Dashboard
+🐍 Skilled in Python, SQL, Excel, Pandas, NumPy, Matplotlib & Seaborn
 
-* Analyzed ₹53M+ Sales Data
-* Interactive Excel Dashboard
-* Revenue Trends & Category Analysis
-* State-wise and City-wise Performance Insights
+📈 Building real-world Analytics Dashboards and SQL Projects
 
-### 🍕 Pizza Sales Analytics Dashboard
+🌱 Currently learning Power BI, DAX, and Machine Learning
 
-* Revenue Analysis ($817K+)
-* Peak Hour & Day Analysis
-* Best-Selling Products Analysis
-* Executive-Level Dashboard Reporting
+🚀 Open to Data Analyst Internships and Collaborative Projects
+
+💡 Goal: Transform raw data into actionable business insights
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Programming & Analytics
+### Programming & Databases
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge\&logo=mysql\&logoColor=white)
@@ -55,13 +43,13 @@ I enjoy working with data, uncovering patterns, building dashboards, and solving
 
 ### Data Visualization
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge\&logo=plotly\&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
 ### Business Intelligence
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 
 ### Tools
 
@@ -72,22 +60,59 @@ I enjoy working with data, uncovering patterns, building dashboards, and solving
 
 ---
 
-## 📚 Skills
+# 🚀 Featured Projects
+
+### 📈 E-Commerce SQL Business Analysis
+
+* Solved 80+ Real-World SQL Business Problems
+* Revenue Analysis
+* Customer Segmentation
+* Product Performance Analysis
+* Window Functions, CTEs, Joins & Subqueries
+
+### 🍔 Swiggy Sales Analytics Dashboard
+
+* ₹53M+ Sales Analysis
+* Interactive Excel Dashboard
+* Revenue & Customer Insights
+* Dynamic Filtering and KPI Tracking
+
+### 🍕 Pizza Sales Analytics Dashboard
+
+* Revenue Analysis
+* Peak Sales Hour Analysis
+* Best & Worst Selling Products
+* Executive Dashboard Reporting
+
+---
+
+# 📚 Core Skills
 
 ✔ Data Analysis
+
 ✔ Exploratory Data Analysis (EDA)
-✔ Data Cleaning & Preprocessing
+
+✔ Data Cleaning
+
 ✔ Data Visualization
+
 ✔ Dashboard Development
-✔ SQL Query Optimization
+
+✔ SQL Analytics
+
 ✔ Business Analytics
+
 ✔ Statistical Analysis
-✔ Reporting & KPI Tracking
+
+✔ KPI Reporting
+
 ✔ Problem Solving
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
+
+<div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=syamkumar81\&theme=tokyonight\&show_icons=true)
 
@@ -95,19 +120,40 @@ I enjoy working with data, uncovering patterns, building dashboards, and solving
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=syamkumar81\&layout=compact\&theme=tokyonight)
 
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/syamkumar-kummari-502191410)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:syamkumarkummari81@gmail.com)
+</div>
 
 ---
 
-### 📈 Visitor Count
+# 📈 Contribution Graph
+
+[![Syam's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=syamkumar81\&theme=tokyo-night)](https://github.com/syamkumar81)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=syamkumar81\&theme=algolia\&no-frame=true\&row=1)
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/syamkumar-kummari-502191410" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:syamkumarkummari81@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<div align="center">
 
 ![](https://komarev.com/ghpvc/?username=syamkumar81\&label=Profile%20Views\&color=0e75b6\&style=flat)
 
-⭐ Turning Data into Insights, One Dataset at a Time.
+### ⭐ Turning Data into Insights, One Dataset at a Time
 
+</div>
