@@ -10,8 +10,6 @@
 
 <img src="https://img.shields.io/badge/Open%20to-Data%20Analyst%20Internships-success?style=for-the-badge" />
 
-<br><br>
-
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 
 <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white"/>
