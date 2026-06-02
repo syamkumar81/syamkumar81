@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 SYAM KUMAR
+# 👋Hey, I'm SYAMKUMAR KUMMARI
 
-### 📊 Data Analyst | SQL • Python • Power BI
+### 📊 Data Analyst | SQL • Python • Power BI • Excel
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Excel;Power+BI+%7C+Business+Intelligence;Pandas+%7C+NumPy+%7C+EDA;Data+Visualization+%7C+Dashboard+Development;Turning+Data+into+Business+Insights" />
 
