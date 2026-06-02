@@ -1,17 +1,30 @@
-
 <div align="center">
 
-# 👋 Hi, I'm Syam Kumar
+# 👋 SYAM KUMAR
 
-### 📊 Aspiring Data Analyst | AI & ML Student | Data-Driven Problem Solver
+### 📊 Data Analyst | SQL • Python • Power BI
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Data+Analyst+Enthusiast;Python+%7C+SQL+%7C+Excel;Power+BI+Learner;Turning+Data+into+Business+Insights;Building+Analytics+Dashboards" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Excel;Power+BI+%7C+Business+Intelligence;Pandas+%7C+NumPy+%7C+EDA;Data+Visualization+%7C+Dashboard+Development;Turning+Data+into+Business+Insights" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Open%20to-Data%20Analyst%20Internships-success?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
 🎓 B.Tech CSE (AI & ML) Student
 
@@ -19,16 +32,37 @@
 
 🐍 Skilled in Python, SQL, Excel, Pandas, NumPy, Matplotlib & Seaborn
 
-📈 Building real-world Analytics Dashboards and SQL Projects
+📈 Building real-world Analytics Dashboards and SQL Business Projects
 
 🌱 Currently learning Power BI, DAX, and Machine Learning
 
-🚀 Open to Data Analyst Internships and Collaborative Projects
-
-💡 Goal: Transform raw data into actionable business insights
+🚀 Open to Data Analyst Internships and Collaboration Opportunities
 
 ---
 
+## 🛠️ Core Skills
+
+🔹 Data Analysis
+
+🔹 Exploratory Data Analysis (EDA)
+
+🔹 Data Cleaning & Transformation
+
+🔹 SQL Query Optimization
+
+🔹 Dashboard Development
+
+🔹 Data Visualization
+
+🔹 Business Intelligence
+
+🔹 KPI Reporting
+
+🔹 Statistical Analysis
+
+🔹 Problem Solving
+
+---
 # 🛠️ Tech Stack
 
 ### Programming & Databases
@@ -84,30 +118,6 @@
 * Peak Sales Hour Analysis
 * Best & Worst Selling Products
 * Executive Dashboard Reporting
-
----
-
-# 📚 Core Skills
-
-✔ Data Analysis
-
-✔ Exploratory Data Analysis (EDA)
-
-✔ Data Cleaning
-
-✔ Data Visualization
-
-✔ Dashboard Development
-
-✔ SQL Analytics
-
-✔ Business Analytics
-
-✔ Statistical Analysis
-
-✔ KPI Reporting
-
-✔ Problem Solving
 
 ---
 
